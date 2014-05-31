@@ -7,12 +7,13 @@ Grab photos from Flickr by tags
  * using asynchronous requests to flickr api
 
 ### How to use
- * run rails
+1. run rails
 
-	rails s
+    rails s
 
- * run faye
 
-	rackup faye.ru -s thin -E production
+2. run faye
+
+    rackup faye.ru -s thin -E production
 
 
