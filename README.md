@@ -9,11 +9,11 @@ Grab photos from Flickr by tags
 ### How to use
 1. run rails
 
-    rails s
+    ``rails s``
 
 
 2. run faye
 
-    rackup faye.ru -s thin -E production
+    ``rackup faye.ru -s thin -E production``
 
 
